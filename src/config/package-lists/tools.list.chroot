@@ -8,15 +8,17 @@ xfce4-power-manager
 xfce4-taskmanager
 xfce4-terminal
 xfce4-settings
+xfce4-notifyd
 
-xdg-utils
 xdg-user-dirs
+xdg-utils
 
 firefox-esr
 pavucontrol
+packagekit
 timeshift
 mousepad
 vlc
 
-network-manager
 network-manager-gnome
+network-manager
