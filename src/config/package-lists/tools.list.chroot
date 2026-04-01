@@ -1,0 +1,22 @@
+# thunar-archive-plugin
+xfce4-diskperf-plugin
+xfce4-fsguard-plugin
+xfce4-cpufreq-plugin
+xfce4-netload-plugin
+xfce4-wavelan-plugin
+xfce4-power-manager
+xfce4-taskmanager
+xfce4-terminal
+xfce4-settings
+
+xdg-utils
+xdg-user-dirs
+
+firefox-esr
+pavucontrol
+timeshift
+mousepad
+vlc
+
+network-manager
+network-manager-gnome
