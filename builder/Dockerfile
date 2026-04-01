@@ -19,7 +19,7 @@ RUN apt update && apt install -y \
 WORKDIR /src
 
 # Default command: configure and build Folian ISO, then copy to output
-CMD lb config --architecture amd64
+CMD lb config --architecture amd64 && \
     lb build --verbose --debug && \
     mkdir -p /Output && \
     cp -r ./live-image* /Output/ && \
